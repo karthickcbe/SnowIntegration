@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="HolmesAppWithTable">d5c9cfb9db2a1300bb802fb748961968</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>holmesTable2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_236521_holmesapp_holmestable2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_236521_holmesapp.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-08 06:28:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>574dc37ddb2a1300bb802fb7489619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>holmesTable2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HolmesAppWithTable" source="x_236521_holmesapp">01c983b5dbe61300bb802fb7489619bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HolmesAppWithTable">01c983b5dbe61300bb802fb7489619bd</sys_scope>
+        <sys_update_name>sys_app_module_574dc37ddb2a1300bb802fb7489619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-08 06:28:19</sys_updated_on>
+        <timeline_page/>
+        <title>holmesTable2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

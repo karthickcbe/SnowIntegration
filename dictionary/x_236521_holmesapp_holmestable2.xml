@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="holmesTable2" max_length="40" name="x_236521_holmesapp_holmestable2" type="collection">
+        <element display="true" label="name" max_length="1" name="name" type="string"/>
+    </element>
+</database>
